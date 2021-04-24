@@ -1,10 +1,10 @@
 # TA_extracterV0.1
 
 This repository was created as a project for CMSE 410/890 at Michigan State University. 
-This package is called, TA_extracter, as it purpose is extracting Tail-anchored proteins, a class of transmembrane proteins from the Saccharomyces cerevisae proteome. It uses a single data file yeast.txt, that contains the proteome information of Saccharomyces. 
+This package is called TA_extracter, as it identifies Tail-anchored proteins, a class of transmembrane proteins from the Saccharomyces cerevisae proteome. It uses a single data file yeast.txt, that contains the proteome information of Saccharomyces. 
 
  In order to run,
- Run the main-script.sh (bash 'main-script.sh'), which is going to execute multiple subscripts,
+ Run the main-script.sh (bash 'main-script.sh'), which is going to execute multiple subscripts contained in the CODE folder,
 This program assumes that you have the following applications in your machine
   * TMHMM
   * SignalP
