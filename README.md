@@ -14,8 +14,9 @@ This program assumes that you have the following applications in your machine
     * Vioplot
     * Wget
     *cd-hit
-The scripts generate some graphical outputs and tables that are condensed in the RESULTS folder,
 
-# Note: This code is non-optimal and several improvement is still needed to make it a functional tool, but it is shared
-# for purely education purposes
+The scripts generate some graphical outputs and tables that are condensed in the RESULTS folder
+
+Note: This code is non-optimal and several improvement is still needed to make it a functional tool, but it is shared
+for purely education purposes
 
