@@ -18,5 +18,5 @@ This program assumes that you have the following applications in your machine
 After runing the multiple subscripts, there are several datafiles created in the DATA folder, and as well, several files created in the RESULTS folder. I decided to add those file in this repository for documentation, although they could be generated running the code. 
 
 Note: This code is a non-optimal  implementation and several improvement is still needed to make it a functional tool, but it is shared
-for purely education purposes
+for purely educational purposes
 
