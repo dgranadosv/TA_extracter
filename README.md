@@ -13,7 +13,7 @@ This program assumes that you have the following applications in your machine
     * MASS
     * Vioplot
     * Wget
-    *cd-hit
+    * cd-hit
 
 After runing the multiple subscripts, several datafiles will be created in the DATA and RESULTS folder. I decided to add the files in RESULTS to this repository for documentation, although they will be generated running the code
 
